@@ -1,17 +1,17 @@
 {
   "name": "saml-update",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "devDependencies": {
     "mocha": "3.5.3",
     "should": "~1.2.1"
   },
   "main": "./lib",
-  "repository": "https://github.com/auth0/node-saml",
+  "repository": "https://github.com/cloone8/saml-update",
   "keywords": [
     "saml",
     "authentication"
   ],
-  "author": "Matias Woloski (Auth0)",
+  "author": "Wouter de Bruijn (Ivido)",
   "license": "MIT",
   "dependencies": {
     "async": "~0.2.9",

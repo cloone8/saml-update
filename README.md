@@ -1,8 +1,6 @@
 Create SAML assertions.
 
-NOTE: currently supports SAML 1.1 tokens
-
-[![Build Status](https://travis-ci.org/auth0/node-saml.png)](https://travis-ci.org/auth0/node-saml)
+Supports both SAML 1.1 and SAML 2.0 tokens
 
 ### Usage
 
@@ -30,11 +28,11 @@ Everything except the cert and key is optional.
 
 ## Issue Reporting
 
-If you have found a bug or if you have a feature request, please report them at this repository issues section. Please do not report security vulnerabilities on the public GitHub issue tracker. The [Responsible Disclosure Program](https://auth0.com/whitehat) details the procedure for disclosing security issues.
+If you have found a bug or if you have a feature request, please report them at this repository issues section.
 
 ## Author
 
-[Auth0](auth0.com)
+[Auth0](auth0.com) (Modifications by Wouter de Bruijn)
 
 ## License
 
