@@ -2,9 +2,7 @@
   <Issuer></Issuer>
   <Subject>
     <NameID />
-    <SubjectConfirmation Method="urn:oasis:names:tc:SAML:2.0:cm:bearer">
-      <SubjectConfirmationData />
-    </SubjectConfirmation>
+    <SubjectConfirmation Method="urn:oasis:names:tc:SAML:2.0:cm:bearer" />
   </Subject>
   <Conditions />
   <AuthnStatement AuthnInstant="">
