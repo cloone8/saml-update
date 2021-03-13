@@ -20,7 +20,7 @@
     "xml-crypto": "~1.0.1",
     "xml-encryption": "0.11.2",
     "xml-name-validator": "~2.0.1",
-    "xmldom": "=0.1.15",
+    "xmldom": "=0.5.0",
     "xpath": "0.0.5"
   },
   "scripts": {
